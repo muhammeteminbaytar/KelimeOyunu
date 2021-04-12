@@ -1,0 +1,28 @@
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\bin\Debug\Kelime Oyunu.exe.config
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\bin\Debug\Kelime Oyunu.exe
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\bin\Debug\Kelime Oyunu.pdb
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime Oyunu.csprojAssemblyReference.cache
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime_Oyunu.Form1.resources
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime_Oyunu.Properties.Resources.resources
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime Oyunu.csproj.GenerateResource.cache
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime Oyunu.csproj.CoreCompileInputs.cache
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime Oyunu.exe
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime Oyunu.pdb
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\bin\Debug\MySql.Data.dll
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\bin\Debug\Google.Protobuf.dll
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\bin\Debug\Zstandard.Net.dll
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\bin\Debug\Ubiety.Dns.Core.dll
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\bin\Debug\Renci.SshNet.dll
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\bin\Debug\System.Memory.dll
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\bin\Debug\System.Buffers.dll
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\bin\Debug\K4os.Compression.LZ4.dll
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\bin\Debug\K4os.Hash.xxHash.dll
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\bin\Debug\System.Numerics.Vectors.dll
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\bin\Debug\MySql.Data.xml
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime Oyunu.exe.config
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime Oyunu.csproj.CopyComplete
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime_Oyunu.Giris.resources
+C:\Storage\My Project\School Project\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime_Oyunu.SoruEkle.resources
