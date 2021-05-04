@@ -1,2 +1,2 @@
 # KelimeOyunu
- Tv2 Ali İhsan Varolun Sunuduğu Kelime Oyunu
+ Tv2 Ali İhsan Varolun Sunduğu Kelime Oyunu
